@@ -1,0 +1,40 @@
+{
+      "data": [
+            {
+                  "ref": {
+                        "name": "Avengers: Endgame",
+                        "link": "https://youtu.be/I7xB4r4ABME"
+                  },
+                  "def": {
+                        "word": "Inevitable",
+                        "meanings": ["Certain to happen; unavoidable"],
+                        "incident": "Came across an Endgame deleted scene, that everyone pays respect to Tony. That reminded me of another mighty that've fallen",
+                        "example": "\"I am inevitable\" - Thanos"
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "Lion King",
+                        "link": "https://www.imdb.com/title/tt6105098/"
+                  },
+                  "def": {
+                        "word": "Stampede",
+                        "meanings": ["A sudden panicked rush of hources, cattle, or other animals", "A mass movement of people at a common place"],
+                        "incident": "Watched Lion King - the original, again. Even though not touching as that one, I feel like the new is a spectacle of its own.",
+                        "example": "The herd was fleeing back to the high land in a wild stampede"
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "Fast & Furious Presents: Hobbs & Shaw",
+                        "link": "https://www.imdb.com/title/tt6806448/"
+                  },
+                  "def": {
+                        "word": "Animocity",
+                        "meanings": ["Strong hostility, unfrendliness or opposition"],
+                        "incident": "Happened to watch Hobbs & Shaw. Felt the movie brings action sequences enhanced with CGI to a whole new level.",
+                        "example": "F&F spinoff revealed to be the reason behind the much-discussed animocity that emerged between Vin Diesel and Dwayne Johnson"
+                  }
+            }
+      ]
+}
