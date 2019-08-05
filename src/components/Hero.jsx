@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { Columns, Column, Title, Subtitle } from 'bloomer';
+import { Columns, Column, Title, Subtitle, Field, Control, Checkbox } from 'bloomer';
 
 const Hero = () => {
       return (

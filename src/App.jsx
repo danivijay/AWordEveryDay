@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import wordListJson from './wordList.json';
 import WordList from './components/WordList';
 import Footer from './components/Footer';
+import './app.css';
 
 function App() {
       return (
