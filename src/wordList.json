@@ -20,7 +20,7 @@
                   "def": {
                         "word": "Stampede",
                         "meanings": ["A sudden panicked rush of hources, cattle, or other animals", "A mass movement of people at a common place"],
-                        "incident": "Watched Lion King - the original, again. Even though not touching as that one, I feel like the new is a spectacle of its own.",
+                        "incident": "Watched Lion King - the original, again. Even though not touching as that one, I feel like the new is a spectacle of its own",
                         "example": "The herd was fleeing back to the high land in a wild stampede"
                   }
             },
@@ -34,6 +34,18 @@
                         "meanings": ["Strong hostility, unfrendliness or opposition"],
                         "incident": "Happened to watch Hobbs & Shaw. Felt the movie brings action sequences enhanced with CGI to a whole new level.",
                         "example": "F&F spinoff revealed to be the reason behind the much-discussed animocity that emerged between Vin Diesel and Dwayne Johnson"
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "Stranger Things",
+                        "link": "https://www.imdb.com/title/tt4574334/"
+                  },
+                  "def": {
+                        "word": "Inadvertently",
+                        "meanings": ["without intention; accidentally."],
+                        "incident": "Finished season 3. Somehow, this series gets better season after season!",
+                        "example": "Inadvertently, they have created a portal to an alternate dimension, \"the Upside Down\""
                   }
             }
       ]
