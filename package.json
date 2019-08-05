@@ -1,6 +1,6 @@
 {
       "name": "a-word-every-day",
-      "homepage": "http://danivijay.github.io/AWordEveryDay",
+      "homepage": "https://awordeveryday.danivijay.com",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
