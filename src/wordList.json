@@ -3,31 +3,34 @@
             {
                   "ref": {
                         "name": "Avengers: Endgame",
-                        "link": "https://youtu.be/I7xB4r4ABME"
+                        "link": "https://youtu.be/I7xB4r4ABME",
+                        "type": "Movie"
                   },
                   "def": {
                         "word": "Inevitable",
                         "meanings": ["Certain to happen; unavoidable"],
-                        "incident": "Came across an Endgame deleted scene, that everyone pays respect to Tony. That reminded me of another mighty that've fallen",
+                        "incident": "Came across an Endgame deleted scene, that everyone pays respect to Tony. That reminded me of another mighty that've fallen.",
                         "example": "\"I am inevitable\" - Thanos"
                   }
             },
             {
                   "ref": {
                         "name": "Lion King",
-                        "link": "https://www.imdb.com/title/tt6105098/"
+                        "link": "https://www.imdb.com/title/tt6105098/",
+                        "type": "Movie"
                   },
                   "def": {
                         "word": "Stampede",
                         "meanings": ["A sudden panicked rush of hources, cattle, or other animals", "A mass movement of people at a common place"],
-                        "incident": "Watched Lion King - the original, again. Even though not touching as that one, I feel like the new is a spectacle of its own",
+                        "incident": "Watched Lion King - the original, again. Even though not touching as that one, I feel like the new is a spectacle of its own.",
                         "example": "The herd was fleeing back to the high land in a wild stampede"
                   }
             },
             {
                   "ref": {
                         "name": "Fast & Furious Presents: Hobbs & Shaw",
-                        "link": "https://www.imdb.com/title/tt6806448/"
+                        "link": "https://www.imdb.com/title/tt6806448/",
+                        "type": "Movie"
                   },
                   "def": {
                         "word": "Animosity",
@@ -39,13 +42,27 @@
             {
                   "ref": {
                         "name": "Stranger Things",
-                        "link": "https://www.imdb.com/title/tt4574334/"
+                        "link": "https://www.imdb.com/title/tt4574334/",
+                        "type": "Series"
                   },
                   "def": {
                         "word": "Inadvertently",
                         "meanings": ["without intention; accidentally."],
                         "incident": "Finished season 3. Somehow, this series gets better season after season!",
                         "example": "Inadvertently, they have created a portal to an alternate dimension, \"the Upside Down\""
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "How to practice emotional first aid | Guy Winch",
+                        "link": "https://www.imdb.com/title/tt4574334/",
+                        "Type": "Talk"
+                  },
+                  "def": {
+                        "word": "Ruminate",
+                        "meanings": ["Think deeply about something"],
+                        "incident": "This speech made me think about what I was doing wrong.",
+                        "example": "Ruminating about upsetting events can easily become a habit, which puts yourself in significant risk for developing clinical depression"
                   }
             }
       ]
