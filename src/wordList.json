@@ -64,6 +64,19 @@
                         "incident": "This speech made me think about what I was doing wrong.",
                         "example": "Ruminating about upsetting events can easily become a habit, which puts yourself in significant risk for developing clinical depression"
                   }
+            },
+            {
+                  "ref": {
+                        "name": "Tweet about Ghost Robotics by Mashable",
+                        "link": "https://twitter.com/mashable/status/1158585235379900416",
+                        "Type": "Tweet"
+                  },
+                  "def": {
+                        "word": "Precursor",
+                        "meanings": ["A person or thing that comes before another of the same kind; a forerunner."],
+                        "incident": "Many of Mashable's videos are like a sneak peek to the future.",
+                        "example": "The company hopes the robot can be a precursor to machines used in commercial, scientific and military fields"
+                  }
             }
       ]
 }
