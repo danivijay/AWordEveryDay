@@ -82,13 +82,26 @@
                   "ref": {
                         "name": "JavaScript Function - What's your Function? | Fireship",
                         "link": "https://youtu.be/gigtS_5KOqo",
-                        "Type": ["Video"]
+                        "Type": ["Video", "Programming"]
                   },
                   "def": {
                         "word": "Lexical",
                         "meanings": ["Relating to the words or vocabulary of a language."],
                         "incident": "As a programmer, lexical scoping and analysis are among commonly used words in my day to day life, but this well crafted video made me think about it.",
                         "example": "A dictionary provides lexical information—it tells you what the word “cat” means, not all there is to know about cats"
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "CSS :empty Selector | Samantha Ming",
+                        "link": "https://dev.to/samanthaming/css-empty-selector-b6f",
+                        "Type": ["Article", "Programming"]
+                  },
+                  "def": {
+                        "word": "Prepend",
+                        "meanings": ["Add (something) to the beginning of something else."],
+                        "incident": "The tutorials from Samantha were always so easy to grasp, and it helped me remember things that I used to google.",
+                        "example": "You forgot to prepend ‘I personally believe’ to the statements you are making"
                   }
             }
       ]
