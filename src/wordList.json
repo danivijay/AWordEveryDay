@@ -8,7 +8,7 @@
                   },
                   "def": {
                         "word": "Inevitable",
-                        "meanings": ["Certain to happen; unavoidable"],
+                        "meanings": ["Certain to happen; unavoidable."],
                         "incident": "Came across an Endgame deleted scene, that everyone pays respect to Tony. That reminded me of another mighty that've fallen.",
                         "example": "\"I am inevitable\" - Thanos"
                   }
@@ -21,9 +21,9 @@
                   },
                   "def": {
                         "word": "Stampede",
-                        "meanings": ["A sudden panicked rush of hources, cattle, or other animals", "A mass movement of people at a common place"],
+                        "meanings": ["A sudden panicked rush of hources, cattle, or other animals", "A mass movement of people at a common place."],
                         "incident": "Watched Lion King - the original, again. Even though not touching as that one, I feel like the new is a spectacle of its own.",
-                        "example": "The herd was fleeing back to the high land in a wild stampede"
+                        "example": "The herd was fleeing back to the high land in a wild stampede."
                   }
             },
             {
@@ -34,9 +34,9 @@
                   },
                   "def": {
                         "word": "Animosity",
-                        "meanings": ["Strong hostility, unfrendliness or opposition"],
+                        "meanings": ["Strong hostility, unfrendliness or opposition."],
                         "incident": "Happened to watch Hobbs & Shaw. Felt the movie brings action sequences enhanced with CGI to a whole new level.",
-                        "example": "F&F spinoff revealed to be the reason behind the much-discussed animosity that emerged between Vin Diesel and Dwayne Johnson"
+                        "example": "F&F spinoff revealed to be the reason behind the much-discussed animosity that emerged between Vin Diesel and Dwayne Johnson."
                   }
             },
             {
@@ -47,9 +47,9 @@
                   },
                   "def": {
                         "word": "Inadvertently",
-                        "meanings": ["without intention; accidentally"],
+                        "meanings": ["without intention; accidentally."],
                         "incident": "Finished season 3. Somehow, this series gets better season after season!",
-                        "example": "Inadvertently, they have created a portal to an alternate dimension, \"the Upside Down\""
+                        "example": "Inadvertently, they have created a portal to an alternate dimension, \"the Upside Down\"."
                   }
             },
             {
@@ -60,9 +60,9 @@
                   },
                   "def": {
                         "word": "Ruminate",
-                        "meanings": ["Think deeply about something"],
+                        "meanings": ["Think deeply about something."],
                         "incident": "This speech made me think about what I was doing wrong. Changing focus for 2 minutes to start healing the mind works like a charm!",
-                        "example": "Ruminating about upsetting events can easily become a habit, which puts yourself in significant risk for developing clinical depression"
+                        "example": "Ruminating about upsetting events can easily become a habit, which puts yourself in significant risk for developing clinical depression."
                   }
             },
             {
@@ -73,9 +73,9 @@
                   },
                   "def": {
                         "word": "Precursor",
-                        "meanings": ["A person or thing that comes before another of the same kind; a forerunner"],
+                        "meanings": ["A person or thing that comes before another of the same kind; a forerunner."],
                         "incident": "Many of Mashable's videos are like a sneak peek to the future.",
-                        "example": "The company hopes the robot can be a precursor to machines used in commercial, scientific and military fields"
+                        "example": "The company hopes the robot can be a precursor to machines used in commercial, scientific and military fields."
                   }
             },
             {
@@ -88,7 +88,7 @@
                         "word": "Lexical",
                         "meanings": ["Relating to the words or vocabulary of a language."],
                         "incident": "As a programmer, lexical scoping and analysis are among commonly used words in my day to day life, but this well crafted video made me think about it.",
-                        "example": "A dictionary provides lexical information—it tells you what the word “cat” means, not all there is to know about cats"
+                        "example": "A dictionary provides lexical information—it tells you what the word “cat” means, not all there is to know about cats."
                   }
             },
             {
@@ -100,8 +100,21 @@
                   "def": {
                         "word": "Prepend",
                         "meanings": ["Add (something) to the beginning of something else."],
-                        "incident": "The tutorials from Samantha were always so easy to grasp, and it helped me remember things that I used to google.",
-                        "example": "You forgot to prepend ‘I personally believe’ to the statements you are making"
+                        "incident": "The tutorials from Samantha are always so easy to grasp, and it helped me remember things that I used to google.",
+                        "example": "You forgot to prepend ‘I personally believe’ to the statements you are making."
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "Mi A3 Review | GSM Arena",
+                        "link": "https://www.gsmarena.com/xiaomi_mi_a3-review-1964p3.php",
+                        "Type": ["Article"]
+                  },
+                  "def": {
+                        "word": "Doppelgänger",
+                        "meanings": ["An apparition or double of a living person."],
+                        "incident": "Looking for a successor to my good old Moto G6. Offerings from Xiaomi seems to be most VFM at the moment.",
+                        "example": "He has been replaced by an evil doppelgänger."
                   }
             }
       ]
