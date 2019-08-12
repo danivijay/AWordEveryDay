@@ -4,7 +4,7 @@ import { Columns, Column, Card, CardHeader, CardHeaderTitle, CardContent, Tag, T
 const WordCard = ({
       wordInfo: {
             ref,
-            def: { word, meanings, incident, example },
+            def: { word, meanings, incident, example, hasSpoilers = false },
       },
       day,
       showSpoilerByDefault = false,
@@ -36,19 +36,21 @@ const WordCard = ({
                                                       </Fragment>
                                                 ))}
                                     </Subtitle>
-                                    <Content hasTextAlign="centered" isMarginless isPaddingless>
-                                          <Button
-                                                isColor="danger"
-                                                isSize="small"
-                                                isOverlay
-                                                onClick={() => setshowSpoiler(true)}
-                                                disabled={showSpoiler}
-                                          >
-                                                <Icon isSize="small" className="fa fa-exclamation-triangle" />
-                                                &nbsp;&nbsp;Show Example (may contain spoilers!)
-                                          </Button>
-                                    </Content>
-                                    <Content isSize={'medium'} className={!showSpoiler && 'blur'}>
+                                    {hasSpoilers && (
+                                          <Content hasTextAlign="centered" isMarginless isPaddingless>
+                                                <Button
+                                                      isColor="danger"
+                                                      isSize="small"
+                                                      isOverlay
+                                                      onClick={() => setshowSpoiler(true)}
+                                                      disabled={showSpoiler}
+                                                >
+                                                      <Icon isSize="small" className="fa fa-exclamation-triangle" />
+                                                      &nbsp;&nbsp;Show Example (may contain spoilers!)
+                                                </Button>
+                                          </Content>
+                                    )}
+                                    <Content isSize={'medium'} className={hasSpoilers && !showSpoiler && 'blur'}>
                                           <i>{example}</i>
                                     </Content>
                               </CardContent>
