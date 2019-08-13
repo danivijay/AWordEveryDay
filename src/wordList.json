@@ -118,6 +118,19 @@
                         "incident": "Looking for a successor to my good old Moto G6. Offerings from Xiaomi seems to be most VFM at the moment.",
                         "example": "He has been replaced by an evil doppelgänger."
                   }
+            },
+            {
+                  "ref": {
+                        "name": "The $100 Startup",
+                        "link": "https://www.goodreads.com/book/show/12605157-the-100-startup",
+                        "Type": ["Book"]
+                  },
+                  "def": {
+                        "word": "Low-key",
+                        "meanings": ["Not elaborate, showy, or intensive; modest or restrained."],
+                        "incident": "One book that inspires a lot to do something, this is a must read.",
+                        "example": "They built relationships and pitched their new projects in a low-key, commonsense manner."
+                  }
             }
       ]
 }
