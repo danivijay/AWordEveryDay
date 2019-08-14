@@ -128,8 +128,21 @@
                   "def": {
                         "word": "Low-key",
                         "meanings": ["Not elaborate, showy, or intensive; modest or restrained."],
-                        "incident": "One book that inspires a lot to do something, this is a must read.",
+                        "incident": "One book that inspires a lot to do something, a must read.",
                         "example": "They built relationships and pitched their new projects in a low-key, commonsense manner."
+                  }
+            },
+            {
+                  "ref": {
+                        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                        "link": "https://www.imdb.com/title/tt0325980/",
+                        "Type": ["Movie"]
+                  },
+                  "def": {
+                        "word": "Ghastly",
+                        "meanings": ["Causing great horror or fear.", "Extremely unwell."],
+                        "incident": "First film of a series that we love will always have a special place in out heart.",
+                        "example": "\"Gastly weather don't you think?\""
                   }
             }
       ]
