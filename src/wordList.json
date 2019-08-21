@@ -144,6 +144,19 @@
                         "incident": "First film of a series that we love will always have a special place in our heart.",
                         "example": "\"Gastly weather, don't you think?\""
                   }
+            },
+            {
+                  "ref": {
+                        "name": "You Don't Know JS - Up & Going",
+                        "link": "https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going",
+                        "Type": ["Book", "Programming"]
+                  },
+                  "def": {
+                        "word": "Coercion",
+                        "meanings": ["The action or practice of persuading someone to do something by using force or threats."],
+                        "incident": "As first in the series, this book clearly makes a statement on how this series is gonna change your way of thinking about JS.",
+                        "example": "He refused to join Napoleon in any proposal for the coercion of Austria or the limitation of her armaments."
+                  }
             }
       ]
 }
